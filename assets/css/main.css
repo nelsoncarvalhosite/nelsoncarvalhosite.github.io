@@ -2859,8 +2859,8 @@ text-decoration:none;
 
 				#header .logo .symbol img {
 					display: block;
-					width: 18em;
-					height: 10em;
+					width: 15em;
+					height: em;
 				}
 
 		#header nav {
