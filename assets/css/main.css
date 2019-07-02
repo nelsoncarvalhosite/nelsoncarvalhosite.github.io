@@ -3317,16 +3317,17 @@ body.is-menu-visible #menu .close {
 /* Botao top */
 
 a[href="#top"] {
-    padding: 10px;
+    padding: 1em;
     position: fixed;
-    top: 60%;
-    right: 25px;
+    bottom: 1em;
+    right: 0;
     display: none;
-    font-size: 80px;
+    font-size: 2em;
+    color: #9CC438;
 }
 
-/*a[href="#top"]:hover {
-    text-decoration: none;*/
+a[href="#top"]:hover {
+    text-decoration: none;
 }
 
 
