@@ -2143,7 +2143,7 @@ ul.actions.fit.stacked {
         -ms-flex-shrink: 1;
         flex-shrink: 1;
         padding: 1em 0 0 0;
-        text-align: center;
+/*        text-align: center;*/
         width: 100%;
     }
 
